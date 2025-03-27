@@ -1,6 +1,6 @@
 # Use XMTP documentation with AI coding assistants
 
-Here are instructions for integrating the XMTP documentation (llms.txt) with popular AI coding assistants:
+Here are instructions for integrating the XMTP documentation (llms.txt) with popular AI coding assistants.
 
 ## Sourcegraph Cody
 
