@@ -4,17 +4,17 @@ Here are instructions for integrating the XMTP documentation (llms.txt) with pop
 
 ## Sourcegraph Cody
 
-1. Add as a context file:
+Add as a context file:
 
-- Open Cody in your IDE (VS Code, JetBrains, etc.)
-- Go to Cody settings
-- Under "Context" or "Additional Context", add the URL to the raw llms.txt file:
+1. Open Cody in your IDE (VS Code, JetBrains, etc.)
+2. Go to Cody settings
+3. Under "Context" or "Additional Context", add the URL to the raw llms.txt file:
 
   ```
   https://raw.githubusercontent.com/xmtp/docs-xmtp-org/main/llms/llms.txt
   ```
 
-- Alternatively, download the file locally and add it as a local context file
+4. Alternatively, download the file locally and add it as a local context file
 
 ### Use with Cody Chat
 
