@@ -61,7 +61,7 @@ def generate_llms_txt(directory, output_file='llms.txt'):
 # Script entry point
 if __name__ == "__main__":
     # Update the path to the docs directory
-    docs_directory = os.path.join('..', 'docs')
+    docs_directory = 'docs'
     
     # Check if the docs directory exists
     if not os.path.isdir(docs_directory):
